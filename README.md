@@ -22,6 +22,14 @@ Discover, explore, and book events in Yerevan. Yerevan Pulsar is a React web app
 
 ![Event details](./public/screenshots/event-details.png)
 
+### Booking
+
+![Booking](./public/screenshots/booking.png)
+
+### Registration
+
+![Registration](./public/screenshots/registration.png)
+
 ### Mobile
 
 ![Mobile](./public/screenshots/mobile.png)
